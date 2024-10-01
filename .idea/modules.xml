@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Kodlama.io.iml" filepath="$PROJECT_DIR$/.idea/Java-Kodlama.io.iml" />
       <module fileurl="file://$PROJECT_DIR$/javakodlamaio/javakodlamaio.iml" filepath="$PROJECT_DIR$/javakodlamaio/javakodlamaio.iml" />
       <module fileurl="file://$PROJECT_DIR$/javakodlamaio2/javakodlamaio2.iml" filepath="$PROJECT_DIR$/javakodlamaio2/javakodlamaio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reCapDemo/reCapDemo.iml" filepath="$PROJECT_DIR$/reCapDemo/reCapDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />
     </modules>
   </component>
 </project>
