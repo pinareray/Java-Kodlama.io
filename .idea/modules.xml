@@ -6,15 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/OOP1/OOP1.iml" />
       <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deneme/deneme.iml" filepath="$PROJECT_DIR$/deneme/deneme.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javakodlamaio/javakodlamaio.iml" filepath="$PROJECT_DIR$/javakodlamaio/javakodlamaio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javakodlamaio2/javakodlamaio2.iml" filepath="$PROJECT_DIR$/javakodlamaio2/javakodlamaio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/javakodlamaio.iml" filepath="$PROJECT_DIR$/loops/javakodlamaio.iml" />
       <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
       <module fileurl="file://$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" filepath="$PROJECT_DIR$/miniProjeAsalSayi/miniProjeAsalSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/reCapDemo/reCapDemo.iml" filepath="$PROJECT_DIR$/reCapDemo/reCapDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" filepath="$PROJECT_DIR$/reCapDemo_Classes/reCapDemo_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/stringsDemo/stringsDemo.iml" />

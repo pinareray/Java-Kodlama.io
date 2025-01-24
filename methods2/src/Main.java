@@ -29,7 +29,7 @@ public class Main {
 
     public static int topla2(int... sayilar){//variable arguments
         int toplam = 0;
-        for(int sayi : sayilar){//Her bir sayı için demek
+        for(int sayi : sayilar){//Sayilardaki her bir sayı için demek
             toplam += sayi;
         }
         return toplam;
